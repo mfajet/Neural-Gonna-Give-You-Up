@@ -1,0 +1,20 @@
+{
+  "name": "neural-gonna-react-you-up",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-dropzone": "^4.2.3",
+    "react-native": "^0.50.4",
+    "react-native-sound": "^0.10.4",
+    "react-orchestra": "^0.4.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
